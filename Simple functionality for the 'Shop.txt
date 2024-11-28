@@ -1,0 +1,4 @@
+ // Simple functionality for the 'Shop Now' button (can be expanded for cart functionality later)
+document.querySelector('.cta-button').addEventListener('click', function() {
+    window.location.href = '#'; // Replace with the link to your shop page
+});
